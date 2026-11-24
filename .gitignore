@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+cache/
+examples/streets/
+examples/*/streets.osm
+examples/*/*.osm.pbf
+examples/*/nodes.gpkg
+examples/*/edges.gpkg
+examples/*/streets.csv
+*.osm.pbf
+*.osm
